@@ -1,8 +1,14 @@
 # Article about the Hong Kong Protests
 
-Anyone is encouraged to contribute via a Pull Request.
+An article I ~~wrote~~ started to write in November 2019, and unfortunately stopped before completion. After revisiting it and finding important to release it, I am releasing it anonymously for the community to complete, in hopes it can see the light of day.
 
-**Initially written in November 2019**
+The plan was to publish it myself, so I would have no problem writing my name to this. However, as of right now, I think it would be more beneficial if it was handed to the community as a whole rather than keep my name, hence it is not mentioned.
+
+The only thing I ask is that this be as neutral as possible, since that was the goal all along. It is important that people are presented with hard facts, so they can come up with their own conclusions. For example, rather than saying "HKPF sucks", please add some sources that back up the claims you are making. Perhaps "distrust in the HKPF is high, given their track record of X, Y, Z (Source 1) (Source 2)" would be better. 
+
+Finally, I hope I am forgiven for any mistakes on the text. Indeed, I will admit my understanding is limited, and the writing is likely to contain some errors. You are more than encouraged to fix them, and I hope you can understand my mistakes. 
+
+I also left in notes I jotted down about what I would write in the empty sections, so this is as genuine as it gets. It is the raw form of my draft, which hopefully is a good starting point.
 
 ---
 
