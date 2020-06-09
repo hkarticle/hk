@@ -4,7 +4,7 @@ An article I ~~wrote~~ started to write in November 2019, and unfortunately stop
 
 The plan was to publish it myself, so I would have no problem writing my name to this. However, as of right now, I think it would be more beneficial if it was handed to the community as a whole rather than keep my name, hence it is not mentioned.
 
-The only thing I ask is that this be as neutral as possible, since that was the goal all along. It is important that people are presented with hard facts, so they can come up with their own conclusions. For example, rather than saying "HKPF sucks", please add some sources that back up the claims you are making. Perhaps "distrust in the HKPF is high, given their track record of X, Y, Z (Source 1) (Source 2)" would be better. 
+The only thing I ask is that this be as neutral as possible, since that was the goal all along. It is important that people are presented with hard facts, so they can come up with their own conclusions. For example, rather than saying "HKPF sucks", please add some sources that back up the claims you are making. Perhaps "distrust in the HKPF is high, given their track record of X, Y, Z (Source 1) (Source 2)" would be better. Personally, I tried to include as many sources as possible from various outlets and official documents.
 
 Finally, I hope I am forgiven for any mistakes on the text. Indeed, I will admit my understanding is limited, and the writing is likely to contain some errors. You are more than encouraged to fix them, and I hope you can understand my mistakes. 
 
