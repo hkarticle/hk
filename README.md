@@ -1,16 +1,32 @@
 # Article about the Hong Kong Protests
 
-An article I ~~wrote~~ started to write in November 2019, and unfortunately stopped before completion. After revisiting it and finding important to release it, I am releasing it anonymously for the community to complete, in hopes it can see the light of day.
+## Author's Note
 
-The plan was to publish it myself, so I would have no problem writing my name to this. However, as of right now, I think it would be more beneficial if it was handed to the community as a whole rather than keep my name, hence it is not mentioned.
+I shall try to keep this brief.
+
+I'm not from Hong Kong, but I was spending some time there for a good proportion of the protests last year. I saw so much misinformation from foreign media, and so much misunderstanding, that I decided to write an article about the movement.
+
+My goal was to cover **everything**. And that was too ambitious. I went through thousands of words in a few days, reviewed official documents, hundreds of sources, etc, hoping to write an article with little bias, and a lot of **facts**. My goal was for people everywhere to see the truth and come up with their own conclusions.
+
+Now, half a year later, I revisited the article. It was never published nor finished, and a lot has happened since then.
+
+But I still think my goal with that article was important: **a comprehensive, independent, fact-based review of the movement**.
+
+So, rather than finish it myself, I decided to open it up to the community, so that anyone can contribute. I'm not sure if this will work, but I think it's worth a shot.
+
+I have added the article here on GitHub, which, for those who don't know, is a platform that allows for people to collaborate on projects (mostly code) easily. As such, if anyone would like to contribute, I encourage you to add something. A line, a paragraph, an image. Something, anything.
+
+Let's see if we can have an article written by multiple writers, and even try to publish it later? As for me, I am choosing to remain anonymous. Back then, I was going to publish this as myself, but now, I think it would be unnecessary to have the focus on me. It's better to focus on the movement and those actually involved, rather than an outsider.
+
+Those contributing may choose to stay anonymous or add their names, it's up to you. If you don't know how to use GitHub and would prefer not to try, you can contact me on reddit (HK_Article_Alt) and I'll try to incorporate your suggestions (with due credit).
 
 The only thing I ask is that this be as neutral as possible, since that was the goal all along. It is important that people are presented with hard facts, so they can come up with their own conclusions. For example, rather than saying "HKPF sucks", please add some sources that back up the claims you are making. Perhaps "distrust in the HKPF is high, given their track record of X, Y, Z (Source 1) (Source 2)" would be better. Personally, I tried to include as many sources as possible from various outlets and official documents.
 
-Finally, I hope I am forgiven for any mistakes on the text. Indeed, I will admit my understanding is limited, and the writing is likely to contain some errors. You are more than encouraged to fix them, and I hope you can understand my mistakes. 
+I hope I am forgiven for any mistakes on the text. Indeed, I will admit my understanding is limited, and the writing is likely to contain some errors. You are more than encouraged to fix them, and I hope you can understand my mistakes. 
 
 I also left in notes I jotted down about what I would write in the empty sections, so this is as genuine as it gets. It is the raw form of my draft, which hopefully is a good starting point. 
 
-The article is also missing pictures, so feel free to add them.
+Finally, the article is also missing pictures, so feel free to add them.
 
 Happy editing!
 
